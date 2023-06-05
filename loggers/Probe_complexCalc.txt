@@ -1,0 +1,4 @@
+мая 30, 2023 2:37:59 PM Model.TextLogger writeLog
+INFO: (45 + 0i) / (3 + 0i) = (15 + 0i)
+мая 30, 2023 2:39:16 PM Model.TextLogger writeLog
+INFO: (0 + 0i) / (0 + 0i) = (NaN + NaNi)
